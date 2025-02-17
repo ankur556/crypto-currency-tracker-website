@@ -7,4 +7,4 @@ the webstite also has this view details function beside it which basically impor
 
 ![image](https://github.com/user-attachments/assets/2ffa8f15-b7a8-4c68-b544-ac53a0725541)
 the website can currentlly load upto 150 currencys at a time and 50 is the intaial number it adds 50 more each time you press load more button thare is also this change currency button which changes the currency you pick and imports the data of the value of that cryyto in that specific currency and the cryptos are arranged acc to thare market cap 
-thare is this refresh data button which just esentially calls for the latest data for the website
+thare is this refresh data button which just esentially calls for the latest data for the website and if the website shows no data then just change the currency from usd that seems to work for some reson as it feaches the data from somewhare else
